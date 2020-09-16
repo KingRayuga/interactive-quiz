@@ -1,2 +1,2 @@
 # interactive-quiz
-simple web-page build using java script
+interactive quiz build using java script
